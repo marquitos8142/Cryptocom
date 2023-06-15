@@ -6,7 +6,7 @@ module.exports = {
   theme: {
     extend: {
       backgroundImage: {
-        'backgroud': "url('/src/assets/img/background.png')",
+        'backgroud': "C:\Users\n.beltran\Desktop\Pagina\Crypto_Django\cryptocom\src\assets\images\Background.jpg')",
       }
     },
   },
