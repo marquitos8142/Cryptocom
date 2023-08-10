@@ -27,7 +27,9 @@ const navbar = () => {
                 </div>
             </div>
             <div className="navbar-center">
+            <Link to="/">
                 <a className="text-white btn btn-ghost normal-case text-xl">Criptocom</a>
+            </Link>
             </div>
             <div className="navbar-end">
                 <button className="text-white btn btn-ghost btn-circle">
