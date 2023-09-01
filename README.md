@@ -5,8 +5,7 @@ A crypto page where you can buy and sell cryptos
 
 All the important changes will be shown here
 
-## [1.0.0] - 2023-11-08
-
+## [1.0.0]
 ### Added
 
 - Now the users can register and save their accounts
