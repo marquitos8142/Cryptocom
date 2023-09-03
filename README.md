@@ -1,4 +1,4 @@
-# Pagina
+# Cryptocom
 A crypto page where you can buy and sell cryptos
 
 # Changelog
@@ -22,3 +22,19 @@ All the important changes will be shown here
 
 - Removed the old user Login and Registration
 
+## [1.0.1]
+### Added
+
+-
+
+### Fixed
+
+-
+
+### Changed
+
+- Changed the old navbar
+
+### Removed
+
+-
